@@ -1,7 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
 ## makeCachematrix returns a list of functions which set and get 
 ## the definition of the given input matrix, and its inverse
 
@@ -38,7 +34,6 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
 
 ## This function returns the inverse of the given matrix using
 ## a cached value if one exists.
