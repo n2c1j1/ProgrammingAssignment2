@@ -1,6 +1,10 @@
 ## makeCachematrix returns a list of functions which set and get 
 ## the definition of the given input matrix, and its inverse
 
+## Note that I am repeating this class as I forgot to sign up for Signature 
+## Track the first time around. The dates on the repo may therefore look a bit
+## strange.
+
 ## usage: mylist = makeCacheMatrix(myMatrix)
 ## myMatrix must be a square invertible matrix
 
